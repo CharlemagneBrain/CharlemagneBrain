@@ -3,8 +3,7 @@
 
 <h3 align="center"> A Machine Learning Enginner & AI Enthusiast 🙂 </h3>
 
-Here are some ideas to get you started:
-**Connect with me : **
+**Connect with me** : 
 * **Twitter** : https://twitter.com/Charles_Abdou
 * **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom-32657a215/
 
