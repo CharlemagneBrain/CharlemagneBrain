@@ -15,7 +15,7 @@
 
 - ⚡ Quote: **Everything comes at the right time to those who know how to persevere without giving up !**
 
-- ⚒️ Tools :  ***Python, Scikit-Learn, Tensorflow, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, HTMl, CSS, Javascript, Linux***
+- ⚒️ Tools :  ***Python, Scikit-Learn, Tensorflow, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB,OpenCV, HTMl, CSS, Javascript, Linux***
 
 
 
