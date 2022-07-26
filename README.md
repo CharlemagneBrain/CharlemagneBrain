@@ -7,7 +7,7 @@
 * **Twitter** : https://twitter.com/Charles_Abdou
 * **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom-32657a215/
 
-- 🔭 I’m currently working on awesome AI projects
+- 🔭 I’m currently working on awesome Deep Learnig projects
 - 🌱 I’m currently learning Deep Learning with Tensorflow
 - 💬 Ask me about Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Web Development, Computer Vision, Natural Language Processing, Big Data
 
