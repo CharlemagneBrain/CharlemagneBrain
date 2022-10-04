@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Charles Abdoulaye Ngom </h1>
 
 
-<h3 align="center"> A Data Scientist & AI Enthusiast 🙂 </h3>
+<h3 align="center"> A Computer Science Engineer & AI Enthusiast 🙂 </h3>
 
 **Connect with me** : 
 * **Twitter** : https://twitter.com/Charles_Abdou
