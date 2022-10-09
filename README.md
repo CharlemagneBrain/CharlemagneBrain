@@ -8,7 +8,7 @@
 * **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom-32657a215/
 
 - 🔭 I’m currently working on awesome Deep Learnig projects and learning about MLOps
-- 🌱 I’m currently learning Deep Learning with Tensorflow & MLOps
+- 🌱 I’m currently learning Deep Learning, Maths, Big Data & MLOps
 - 💬 Ask me about Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Web Development, Computer Vision, Natural Language Processing, Big Data
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
