@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
 
-- ⚡ Quote: **Everything comes at the right time to those who know how to persevere without giving up !**
+- ⚡ Quote: **Without commitment you will never start, and without consistency you will never finish. Stay focused !**
 
 - ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, HTMl, CSS, Javascript, Linux***
 
