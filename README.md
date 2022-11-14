@@ -6,16 +6,17 @@
 **Connect with me** : 
 * **Twitter** : https://twitter.com/Charles_Abdou
 * **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom-32657a215/
+* **Instagram** : https://www.instagram.com/charles_abdoulaye/
 
 - 🔭 I’m currently working on awesome Deep Learnig projects and learning about MLOps
 - 🌱 I’m currently learning MLOps with deeplearning.ai on Coursera
-- 💬 Ask me about Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Web Development, Computer Vision, Natural Language Processing, Big Data
+- 💬 Ask me about Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, MLOps, Web Development, Computer Vision, Natural Language Processing, Big Data, Cloud
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
 
 - ⚡ Quote: **Without commitment you will never start, and without consistency you will never finish. Stay focused !**
 
-- ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, HTMl, CSS, Javascript, Linux***
+- ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, OpenStack, HTMl, CSS, Javascript, Linux ...***
 
 
 
