@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
 
-- ⚡ Quote: **Without commitment you will never start, and without consistency you will never finish. Stay focused !**
+- ⚡ Quote: **"Without commitment you will never start, and without consistency you will never finish. Stay focused !"**
 
 - ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, OpenStack, HTMl, CSS, Javascript, Linux ...***
 
