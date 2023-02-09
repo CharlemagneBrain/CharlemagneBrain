@@ -4,7 +4,7 @@
 <h3 align="center"> A Computer Science Engineer & AI Enthusiast 🙂 </h3>
 
 **Connect with me** : 
-* **Twitter** : https://twitter.com/Charles_Abdou
+* **Twitter** : https://twitter.com/still_charay
 * **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom-32657a215/
 * **Instagram** : https://www.instagram.com/charles_abdoulaye/
 
