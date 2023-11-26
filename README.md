@@ -5,11 +5,11 @@
 
 **Connect with me** : 
 * **Twitter** : https://twitter.com/still_charay
-* **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom-32657a215/
+* **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom/
 * **Instagram** : https://www.instagram.com/charles_abdoulaye/
 
-- 🔭 I’m currently working on awesome Deep Learnig projects and learning about MLOps
-- 🌱 I’m currently learning MLOps with deeplearning.ai on Coursera
+- 🔭 I’m currently working on awesome Deep Learnig / Generative AI  projects, and learning about MLOps
+- 🌱 I’m currently learning MLOps and Generative AI with deeplearning.ai on Coursera
 - 💬 Ask me about Computer Science, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, MLOps, Web Development, Computer Vision, Natural Language Processing, Big Data, Cloud
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
