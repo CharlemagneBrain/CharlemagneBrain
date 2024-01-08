@@ -2,6 +2,8 @@
 
 
 <h3 align="center"> A Computer Science Engineer & AI Enthusiast 🙂 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlemagneBrain&abbreviated=true" alt="CharlemagneBrain" /> </p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlemagneBrain&show_icons=true&locale=en&layout=compact" alt="CharlemagneBrain"/></p> -->
 
 **Connect with me** : 
 * **Twitter** : https://twitter.com/still_charay
@@ -10,7 +12,10 @@
 
 - 🔭 I’m currently working on awesome Deep Learnig / Generative AI  projects, and learning about MLOps
 - 🌱 I’m currently learning MLOps and Generative AI with deeplearning.ai on Coursera
-- 💬 Ask me about Computer Science, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, MLOps, Web Development, Computer Vision, Natural Language Processing, Big Data, Cloud
+- 💬 Ask me about Computer Science, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, MLOps, Web and Mobile Development, Computer Vision, Natural Language Processing, Big Data, Cloud
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CharlemagneBrain" alt="CharlemagneBrain" /></a> </p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlemagneBrain&show_icons=true&locale=en" alt="CharlemagneBrain" /></p>
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
 
