@@ -2,8 +2,8 @@
 
 
 <h3 align="center"> A Computer Science Engineer & AI Enthusiast 🙂 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlemagneBrain&abbreviated=true" alt="CharlemagneBrain" /> </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlemagneBrain&show_icons=true&locale=en&layout=compact" alt="CharlemagneBrain"/></p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlemagneBrain&abbreviated=true" alt="CharlemagneBrain" /> </p> -->
+
 
 **Connect with me** : 
 * **Twitter** : https://twitter.com/still_charay
@@ -22,6 +22,8 @@
 - ⚡ Quote: **"Without commitment you will never start, and without consistency you will never finish. "**
 
 - ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, TFX, TFDV, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, OpenStack, HTMl, CSS, Javascript, Linux ...***
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlemagneBrain&show_icons=true&locale=en&layout=compact" alt="CharlemagneBrain"/></p>
 
 
 
