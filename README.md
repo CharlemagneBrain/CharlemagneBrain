@@ -15,7 +15,8 @@
 - 💬 Ask me about Computer Science, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, MLOps, Web and Mobile Development, Computer Vision, Natural Language Processing, Big Data, Cloud
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CharlemagneBrain" alt="CharlemagneBrain" /></a> </p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlemagneBrain&show_icons=true&locale=en" alt="CharlemagneBrain" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlemagneBrain&show_icons=true&locale=en" alt="CharlemagneBrain" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlemagneBrain&show_icons=true&locale=en&layout=compact" alt="CharlemagneBrain"/> </p> 
+  
 
 - 📫 How to reach me: **contactcharliedev@gmail.com**
 
@@ -23,7 +24,7 @@
 
 - ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, TFX, TFDV, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, OpenStack, HTMl, CSS, Javascript, Linux ...***
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlemagneBrain&show_icons=true&locale=en&layout=compact" alt="CharlemagneBrain"/></p>
+  
 
 
 
