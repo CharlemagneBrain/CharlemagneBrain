@@ -22,7 +22,7 @@
 
 - ⚡ Quote: **"Without commitment you will never start, and without consistency you will never finish. "**
 
-- ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, TFX, TFDV, Keras, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, OpenStack, HTMl, CSS, Javascript, Linux ...***
+- ⚒️ Tools :  ***Python, FastApi, Scikit-Learn, Tensorflow, Pytorch, TFX, TFDV, Keras, C++, SQL, Symfony, Java, Docker, KVM, Hadoop, MongoDB, OpenCV, OpenStack, HTMl, CSS, Javascript, Linux ...***
 
   
 
