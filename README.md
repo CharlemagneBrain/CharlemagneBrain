@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Charles Abdoulaye Ngom <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 
-<h3 align="center"> A Computer Science Engineer & AI Enthusiast 🙂 </h3>
+<h3 align="center"> An AI Engineer & Researcher PhD Student in AI for Medicine 🙂 </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlemagneBrain&abbreviated=true" alt="CharlemagneBrain" /> </p> -->
 
 
