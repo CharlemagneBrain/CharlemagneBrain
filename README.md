@@ -17,7 +17,7 @@
 
 
 
-- **GeoAI, #NLP, GeoTextAI, Risk_Factors, Health Crisis, Food Crisis**
+- **AI, GeoAI, NLP, GeoTextAI, Risk_Factors, Health Crisis, Food Crisis**
 
 
   
