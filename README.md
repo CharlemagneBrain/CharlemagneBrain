@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Charles Abdoulaye Ngom <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 
-<h3 align="center"> An AI Research Engineer  🙂 </h3>
+<h3 align="center"> An Ph.D Student and AI Enthusuiast  🙂 </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlemagneBrain&abbreviated=true" alt="CharlemagneBrain" /> </p> -->
 
 
@@ -14,6 +14,10 @@
 
 - ⚡ Quote: **"Without commitment you will never start, and without consistency you will never finish. "**
 
+
+
+
+- **GeoAI, #NLP, GeoTextAI, Risk_Factors, Health Crisis, Food Crisis**
 
 
   
