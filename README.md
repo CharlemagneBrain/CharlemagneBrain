@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Charles Abdoulaye NGOM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
+<h1 align="center">Hi there 👋, I'm Charles Abdoulaye NGOM 🇸🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 <h3 align="center">Ph.D. Student in AI | C.S Engineer </h3>
 
