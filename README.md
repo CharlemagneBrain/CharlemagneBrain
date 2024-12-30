@@ -1,26 +1,22 @@
-<h1 align="center"> Hi there 👋, I'm Charles Abdoulaye Ngom <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
+<h1 align="center">Hi there 👋, I'm Charles Abdoulaye NGOM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
+<h3 align="center">Ph.D. Student in AI | C.S Engineer </h3>
 
-<h3 align="center"> A Ph.D Student and AI Enthusuiast  🙂 </h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlemagneBrain&abbreviated=true" alt="CharlemagneBrain" /> </p> -->
+<p align="center">
+  <a href="https://scholar.google.fr/citations?user=v2VkcZEAAAAJ&hl=fr&oi=ao">Google Scholar</a> •
+  <a href="https://www.linkedin.com/in/charles-abdoulaye-ngom/">LinkedIn</a> •
+  <a href="https://twitter.com/still_charay">Twitter</a> •
+</p>
 
+---
 
-**Connect with me** : 
-* **Twitter** : https://twitter.com/still_charay
-* **Linkedin** : https://www.linkedin.com/in/charles-abdoulaye-ngom/
-* **Instagram** : https://www.instagram.com/charles_abdoulaye/
+**About Me:**
 
-- 📫 How to reach me: **contactcharliedev@gmail.com**
+- 🎓 Pursuing a Ph.D. with a focus on **AI**, **GeoAI**, **NLP**, **GeoTextAI**, **Risk Factors**, **Health Crisis**, and **Food Crisis**.
+- 🌍 Based in France, contributing to research at [INRAE](https://www.inrae.fr/).
+- 📫 Reach me at **contactcharliedev@gmail.com** / **charles.ngom@inrae.fr** .
+- ⚡ *"Without commitment you will never start, and without consistency you will never finish."*
 
-- ⚡ Quote: **"Without commitment you will never start, and without consistency you will never finish. "**
+---
 
-
-
-
-- **AI, GeoAI, NLP, GeoTextAI, Risk_Factors, Health Crisis, Food Crisis**
-
-
-  
-
-
-
+*Let's connect and collaborate to push the boundaries of AI and its applications!*
