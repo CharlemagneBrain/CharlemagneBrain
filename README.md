@@ -14,7 +14,7 @@
 **About Me:**
 
 - 🎓 Pursuing a Ph.D. with a focus on **AI**, **GeoAI**, **NLP**, **GeoTextAI**, **Risk Factors**, **Health Crisis**, and **Food Crisis** : Spatial information and Artificial Intelligence (LLMs and KGs )to improve Crisis Monitoring and Detection based on Textual Data
-- 🌍 Based in France, contributing to research at [INRAE](https://www.inrae.fr/).
+- 🌍 Based in France, contributing to research at [INRAE](https://www.inrae.fr/) / [TETIS](https://umr-tetis.fr/index.php/fr/)
 - 📫 Reach me at  **charles.ngom@inrae.fr** / **contactcharliedev@gmail.com**.
 - ⚡ *"Without commitment you will never start, and without consistency you will never finish."*
 
