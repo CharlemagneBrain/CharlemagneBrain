@@ -3,7 +3,7 @@
 <h3 align="center">Ph.D. Student in AI | C.S Engineer </h3>
 
 <p align="center">
-  <a href="charlemagnebrain.github.io/Portfolio/">Portfolio</a> 
+  <a href="https://charlemagnebrain.github.io/Portfolio/">Portfolio</a> 
 </p>
 
 ---
