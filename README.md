@@ -3,10 +3,7 @@
 <h3 align="center">Ph.D. Student in AI | C.S Engineer </h3>
 
 <p align="center">
-  <a href="https://scholar.google.fr/citations?user=v2VkcZEAAAAJ&hl=fr&oi=ao">Scholar</a> •
-  <a href="https://www.linkedin.com/in/charles-abdoulaye-ngom/">LinkedIn</a> •
-  <a href="https://medium.com/@contactcharliedev/about">Medium</a> •
-  <a href="https://twitter.com/still_charay">Twitter</a> 
+  <a href="charlemagnebrain.github.io/Portfolio/">Portfolio</a> 
 </p>
 
 ---
