@@ -11,7 +11,7 @@
 **About Me:**
 
 - 🎓 Pursuing a Ph.D. with a focus on **Food Security** : Spatial information and Artificial Intelligence (LLMs and KGs )to improve Crisis Monitoring and Detection based on Textual Data
-- 🌍 Labo : [INRAE](https://www.inrae.fr/) / [TETIS UNIT](https://umr-tetis.fr/index.php/fr/)
+- 🌍 Labo : [INRAE](https://www.inrae.fr/) / [TETIS UNIT](https://github.com/tetis-nlp)
 - 📫 Reach me at  **charles.ngom@inrae.fr** / **contactcharliedev@gmail.com**.
 - ⚡ *"Without commitment you will never start, and without consistency you will never finish."*
 
